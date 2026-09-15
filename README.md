@@ -1,4 +1,4 @@
-# New Prejeto GIt
+# Novo Projeto GIt
 
 ## Criando um repositorio 
 
